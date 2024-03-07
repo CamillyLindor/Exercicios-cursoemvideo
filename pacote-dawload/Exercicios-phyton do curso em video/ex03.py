@@ -1,3 +1,5 @@
+calculadora
+
 import tkinter as tk
 from tkinter import ttk
 from math import sqrt, sin, cos, tan, radians
